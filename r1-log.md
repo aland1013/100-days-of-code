@@ -6,6 +6,6 @@ The log of my #100DaysOfCode challenge. Started on June 27, 2019.
 
 ### R1D1 
 
-Continued freeCodeCamp Front End Libraries curriculum.  Finished the React challenges and completed the first ___ Redux challenges.
+Continued the freeCodeCamp Front End Libraries curriculum.  Finished up the React challenges and completed each of the Redux challenges.
 
 ### R1D2
