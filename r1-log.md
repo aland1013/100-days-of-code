@@ -11,3 +11,7 @@ Continued the freeCodeCamp Front End Libraries curriculum.  Finished up the Reac
 ### R1D2
 
 Completed React and Redux challenges and began the Random Quote Machine project.  It is available at https://codepen.io/abland/pen/MMrJKM.
+
+### R1D3
+
+Continued Random Quote Machine project.
