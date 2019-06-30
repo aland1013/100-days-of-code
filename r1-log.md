@@ -15,3 +15,7 @@ Completed React and Redux challenges and began the Random Quote Machine project.
 ### R1D3
 
 Continued Random Quote Machine project.
+
+### R1D4
+
+Continued Random Quote Machine project.  All that's left is to make Tweet button work.
