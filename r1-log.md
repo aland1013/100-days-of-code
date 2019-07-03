@@ -19,3 +19,11 @@ Continued Random Quote Machine project.
 ### R1D4
 
 Continued Random Quote Machine project.  All that's left is to make Tweet button work.
+
+### R1D5
+
+Finished Random Quote Machine project and began Markdown Previewer project.
+
+### R1D6
+
+Continued the freeCodeCamp Markdown Previewer project.
