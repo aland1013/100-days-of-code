@@ -27,3 +27,7 @@ Finished Random Quote Machine project and began Markdown Previewer project.
 ### R1D6
 
 Continued the freeCodeCamp Markdown Previewer project.
+
+### R1D7
+
+More work on the Markdown Previewer
