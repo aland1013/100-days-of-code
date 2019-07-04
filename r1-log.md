@@ -30,4 +30,8 @@ Continued the freeCodeCamp Markdown Previewer project.
 
 ### R1D7
 
-More work on the Markdown Previewer
+More work on the Markdown Previewer.
+
+### R1D8
+
+Completed the Markdown Previewer project.  It is available at https://codepen.io/abland/pen/gNepvP.
