@@ -35,3 +35,7 @@ More work on the Markdown Previewer.
 ### R1D8
 
 Completed the Markdown Previewer project.  It is available at https://codepen.io/abland/pen/gNepvP.
+
+### R1D9
+
+Completed the Drum Machine freeCodeCamp front end libraries project.  It is available at https://codepen.io/abland/full/QXBawa.
