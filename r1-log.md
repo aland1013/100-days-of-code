@@ -39,3 +39,11 @@ Completed the Markdown Previewer project.  It is available at https://codepen.io
 ### R1D9
 
 Completed the Drum Machine freeCodeCamp front end libraries project.  It is available at https://codepen.io/abland/full/QXBawa.
+
+### R1D10
+
+Revisited one of the early freeCodeCamp projects I skipped - the product landing page.
+
+### R1D11
+
+Finished the freeCodeCamp product landing page project.  It is available at https://codepen.io/abland/full/JQmEOp.
