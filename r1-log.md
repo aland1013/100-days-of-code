@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on June 27, 2019.
 
 ## Log
 
-### R1D1 
+### R1D1
 
 Continued the freeCodeCamp Front End Libraries curriculum.  Finished up the React challenges and completed each of the Redux challenges.
 
@@ -47,3 +47,15 @@ Revisited one of the early freeCodeCamp projects I skipped - the product landing
 ### R1D11
 
 Finished the freeCodeCamp product landing page project.  It is available at https://codepen.io/abland/full/JQmEOp.
+
+### R1D12
+
+Began the freeCodeCamp calculator project.
+
+### R1D13
+
+Completed front-end of the calculator project.
+
+###R1D14
+
+Finished the calculator project.  It is available at [link]
