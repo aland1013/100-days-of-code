@@ -56,6 +56,12 @@ Began the freeCodeCamp calculator project.
 
 Completed front-end of the calculator project.
 
+<<<<<<< HEAD
 ### R1D14
 
 Finished the calculator project.  It is available at https://codepen.io/abland/full/ewQVNQ.
+=======
+###R1D14
+
+Finished the calculator project.  It is available at [link]
+>>>>>>> 69142181ab367c8ec876877b8756fdabe5e97ab0
