@@ -59,3 +59,43 @@ Completed front-end of the calculator project.
 ### R1D14
 
 Finished the calculator project.  It is available at https://codepen.io/abland/full/ewQVNQ.
+
+### R1D15
+
+Began the pomodoro clock freeCodeCamp project.
+
+### R1D16
+
+Continued working on the freeCodeCamp pomodoro clock project en route to Jackson, WY.
+
+### R1D17
+
+Continued working on the freeCodeCamp pomodoro clock project.
+
+### R1D18
+
+Continued working on the freeCodeCamp pomodoro clock project.
+
+### R1D19
+
+Finished the freeCodeCamp pomodoro clock project and earned the front end libraries certification.  It is available at https://codepen.io/abland/full/YogONY.  Need to revisit the front end.
+
+### R1D20
+
+Completed the freeCodeCamp data visualization with D3 challenges on flight home from Jackson, WY.
+
+### R1D21
+
+Completed the freeCodeCamp JSON APIs and Ajax data visualization challenges and started the bar chart project.
+
+### R1D22
+
+Completed the Codecademy "Learn the Command Line" course.
+
+### R1D23
+
+Completed the Codecademy git and d3 courses and continued working on the freeCodeCamp bar chart data visualization project.
+
+### R1D24
+
+Finished the freeCodeCamp bar chart project.  It is available at https://codepen.io/abland/full/LwPoxG.
